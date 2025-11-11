@@ -3,7 +3,7 @@
 Bem-vindo(a) ao meu portfólio!  
 Este projeto reúne meus principais trabalhos como **Desenvolvedor Front-End**, demonstrando minhas habilidades em **HTML, CSS e JavaScript** através de projetos modernos, responsivos e cheios de estilo. 🚀  
 
-![Preview do Portfólio](assets/preview.png)
+
 
 ---
 
